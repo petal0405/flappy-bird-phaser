@@ -18,6 +18,11 @@ Main game logic lives in [`app.js`](./app.js), with a minimal bootstrap in [`ind
 
 ---
 
+## 🎮 Gameplay Demo
+
+📹 Watch the full gameplay demo on YouTube (unlisted):  
+👉 https://youtu.be/wanagQZE0DU
+
 ## Technical Highlights
 
 - **Phaser Arcade Physics** for gravity, collision detection, and lightweight rigid body simulation  
