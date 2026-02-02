@@ -23,6 +23,11 @@ Main game logic lives in [`app.js`](./app.js), with a minimal bootstrap in [`ind
 📹 Watch the full gameplay demo on YouTube (unlisted):  
 👉 https://youtu.be/wanagQZE0DU
 
+## 🚀 Live Demo
+
+Play the game here:  
+👉 https://petal0405.github.io/flappy-bird-phaser/
+
 ## Technical Highlights
 
 - **Phaser Arcade Physics** for gravity, collision detection, and lightweight rigid body simulation  
